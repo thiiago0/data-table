@@ -1,0 +1,88 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "email": "juan.perez@example.com",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "nombre": "María",
+      "apellido": "García",
+      "email": "maria.garcia@example.com",
+      "password": "1234"
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos",
+      "apellido": "Rodríguez",
+      "email": "carlos.rodriguez@example.com",
+      "password": "1234"
+    },
+    {
+      "id": 4,
+      "nombre": "Ana",
+      "apellido": "Martínez",
+      "email": "ana.martinez@example.com",
+      "password": "1234"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "apellido": "López",
+      "email": "pedro.lopez@example.com",
+      "password": "1234"
+    },
+    {
+      "id": 6,
+      "nombre": "Laura",
+      "apellido": "Hernández",
+      "email": "laura.hernandez@example.com",
+      "password": "1234"
+    },
+    {
+      "id": 7,
+      "nombre": "Javier",
+      "apellido": "Díaz",
+      "email": "javier.diaz@example.com",
+      "password": "1234"
+    },
+    {
+      "id": 8,
+      "nombre": "Carmen",
+      "apellido": "Sánchez",
+      "email": "carmen.sanchez@example.com",
+      "password": "1234"
+    },
+    {
+      "id": 9,
+      "nombre": "Luis",
+      "apellido": "Ramírez",
+      "email": "luis.ramirez@example.com",
+      "password": "1234"
+    },
+    {
+      "id": 10,
+      "nombre": "Isabel",
+      "apellido": "González",
+      "email": "isabel.gonzalez@example.com",
+      "password": "1234"
+    },
+    {
+      "id": 11,
+      "nombre": "Santiago",
+      "apellido": "Os",
+      "email": "so@gmaol.com",
+      "password": "1234"
+    },
+    {
+      "id": 14,
+      "nombre": "Santiago2",
+      "apellido": "Osorno",
+      "email": "sod@gmaol.com",
+      "password": "1234"
+    }
+  ]
+}
