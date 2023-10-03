@@ -2,7 +2,7 @@ import { useContext, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Swal from "sweetalert2";
 import MyContext from "../../context/MyContext";
-import { clients } from "../../user/clients.json";
+import { users } from "../../user/users.json";
 
 export const useLogin = () => {
   const [Email, setEmail] = useState("");
@@ -17,7 +17,7 @@ export const useLogin = () => {
   };
 
   const handleLogin = () => {
-    const user = clients.find(
+    const user = users.find(
       (user) => user.email === Email && user.password === Password
     );
     if (Email != user.email || Password != user.password) {

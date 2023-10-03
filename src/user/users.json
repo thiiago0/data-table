@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "JohnSmith@gmail.com",
+      "password": "johnny123"
+    },
+    {
+      "id": 2,
+      "email": "EmilyJohnson@gmail.com",
+      "password": "emilyj"
+    },
+    {
+      "id": 3,
+      "email": "MichaelWilliam@gmail.com",
+      "password": "mike_will"
+    },
+    {
+      "id": 4,
+      "email": "SophiaBrown@gmail.com",
+      "password": "sophie_b"
+    },
+    {
+      "id": 5,
+      "email": "WilliamDavis@gmail.com",
+      "password": "will_d"
+    },
+    {
+      "id": 6,
+      "email": "OliviaGarcia@gmail.com",
+      "password": "olivia_g"
+    },
+    {
+      "id": 7,
+      "email": "JamesMartinez@gmail.com",
+      "password": "james_m"
+    },
+    {
+      "id": 8,
+      "email": "AvaRobinson@gmail.com",
+      "password": "avarob"
+    },
+    {
+      "id": 9,
+      "email": "EthanClark@gmail.com",
+      "password": "ethan_c"
+    },
+    {
+      "id": 10,
+      "email": "IsabellaLee@gmail.com",
+      "password": "isabella_l"
+    },
+    {
+      "id": 11,
+      "email": "MasonHall@gmail.com",
+      "password": "mason_h"
+    },
+    {
+      "id": 12,
+      "email": "AbigailTurner@gmail.com",
+      "password": "abby_turn"
+    },
+    {
+      "id": 13,
+      "email": "AlexanderHernandez@gmail.com",
+      "password": "alex_h"
+    },
+    {
+      "id": 14,
+      "email": "Charlottehillips@gmail.com",
+      "password": "char_phil"
+    },
+    {
+      "id": 15,
+      "email": "DanielFlores@gmail.com",
+      "password": "danny_f"
+    },
+    {
+      "id": 16,
+      "email": "EmmaScott@gmail.com",
+      "password": "emma_s"
+    },
+    {
+      "id": 17,
+      "email": "HenryMurphy@gmail.com",
+      "password": "henry_m"
+    },
+    {
+      "id": 18,
+      "email": "GraceHill@gmail.com",
+      "password": "grace_h"
+    },
+    {
+      "id": 19,
+      "email": "JacobWard@gmail.com",
+      "password": "jacob_w"
+    },
+    {
+      "id": 20,
+      "email": "LilyBennett@gmail.com",
+      "password": "lala"
+    }
+  ]
+}
