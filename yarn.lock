@@ -2174,10 +2174,10 @@
   "resolved" "https://registry.npmjs.org/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz"
   "version" "1.0.0"
 
-"sweetalert2@^11.7.31":
-  "integrity" "sha512-AVNODg41LqhC241UHTanW2ZQdh0ziiw+Gc3Dmy1EuCFP+g09P3mBEhvauU88J3JLEX6UpTfhp7iok9t8uhEdQQ=="
-  "resolved" "https://registry.npmjs.org/sweetalert2/-/sweetalert2-11.7.31.tgz"
-  "version" "11.7.31"
+"sweetalert2@^11.7.32":
+  "integrity" "sha512-44tNNe2oLe7T94mT6dus4hc9G7qg6jZU/K5qZzpNS6e5HGPrSF6Kie6oZ7B5puIJydB34V2h/8f5EhIFivYo4A=="
+  "resolved" "https://registry.npmjs.org/sweetalert2/-/sweetalert2-11.7.32.tgz"
+  "version" "11.7.32"
 
 "text-table@^0.2.0":
   "integrity" "sha512-N+8UisAXDGk8PFXP4HAzVR9nbfmVJ3zYLAWiTIoqC5v5isinhr+r5uaO8+7r3BMfuNIufIsA7RdpVgacC2cSpw=="

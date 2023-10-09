@@ -1,0 +1,33 @@
+.container-create {
+  position: relative;
+  width: 350px;
+  height: 500px;
+  border-radius: 20px;
+  padding: 40px;
+  box-sizing: border-box;
+  background: #ecf0f3;
+  box-shadow: 14px 14px 20px #cbced1, -14px -14px 20px white;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.btn-create {
+  color: white;
+  margin-top: 20px;
+  background: #1da1f2;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+  font-weight: 900;
+  box-shadow: 6px 6px 6px #cbced1, -6px -6px 6px white;
+  transition: 0.5s;
+}
+
+.btn-create:hover {
+  box-shadow: none;
+  background: #128edc;
+}
