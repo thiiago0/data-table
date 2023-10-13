@@ -2,14 +2,14 @@
   "clients": [
     {
       "id": 1,
-      "nombre": "Juan",
+      "nombre": "antonio",
       "apellido": "Pérez",
       "email": "juan.perez@example.com",
       "createdAt": "2023-08-10"
     },
     {
       "id": 2,
-      "nombre": "María",
+      "nombre": "Maria",
       "apellido": "García",
       "email": "maria.garcia@example.com",
       "createdAt": "2023-08-10"
@@ -69,44 +69,6 @@
       "apellido": "González",
       "email": "isabel.gonzalez@example.com",
       "createdAt": "2023-08-10"
-    },
-    {
-      "id": 11,
-      "nombre": "Santiago",
-      "apellido": "Os",
-      "email": "so@gmaol.com",
-      "createdAt": "2023-09-30"
-    },
-    {
-      "id": 14,
-      "nombre": "Santiago2",
-      "apellido": "Osorno",
-      "email": "sod@gmaol.com",
-      "createdAt": "2023-09-30"
-    },
-    {
-      "id": "15",
-      "name": "sebastian",
-      "lastname": "restrepo",
-      "email": "fg@gmail.com"
-    },
-    {
-      "id": "16",
-      "nombre": "sebastian",
-      "apellido": "restrepo",
-      "email": "fg2@gmail.com"
-    },
-    {
-      "id": "18",
-      "nombre": "ramiro",
-      "apellido": "antonio",
-      "email": "dsds@gmail.com"
-    },
-    {
-      "id": "Ek_ZTPa",
-      "nombre": "pastor",
-      "apellido": "lopez",
-      "email": "lopez@gmail.com"
     }
   ]
 }
